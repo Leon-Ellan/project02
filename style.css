@@ -73,7 +73,7 @@ p {
 button {
   color: #F9F9F9;
   font-family: 'Open Sans', sans-serif;
-
+  text-transform: uppercase;
 
   background: #69B99D;
   padding: 14px 32px 15px;
